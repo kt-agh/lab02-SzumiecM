@@ -7,8 +7,9 @@ using namespace std;
 
 int main() 
 {
-    int zmiennaA= 5, zmiennaB= 7;
-    int wynik=  zmiennaA + zmiennaB;
+
+    int a= 5, b= 7;
+    int wynik= a + b;
 
     cout << "Wynik Dodawania Dwóch Liczb To:" << wynik << endl; // Wypisuje wynik dzialania
 
